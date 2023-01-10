@@ -1,0 +1,9 @@
+Flipkart_202301\util\Resources.class
+Flipkart_202301\controller\MemberController.class
+Flipkart_202301\model\Member.class
+Flipkart_202301\data\MemberListProducer.class
+Flipkart_202301\service\MemberRegistration.class
+Flipkart_202301\model\Member_.class
+Flipkart_202301\data\MemberRepository.class
+Flipkart_202301\rest\JaxRsActivator.class
+Flipkart_202301\rest\MemberResourceRESTService.class
